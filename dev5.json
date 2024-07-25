@@ -1,0 +1,1262 @@
+{
+  "batchMemo": "테스트1",
+  "orderInfoList": [
+    {
+      "abSeq": "13850",
+      "abTme": 2,
+      "odrTy": "B2C",
+      "deliveryMethod": "택배",
+      "memo": "택배회차",
+      "boxInfoList": [
+        {
+          "boxNo": "O083-20240610-00001-B09",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188108",
+            "invoiceNumber": "1",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00053",
+              "barcode": "8809692285663",
+              "gdsNm": "ㅁㅊ 모래 6.3kg ",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location1",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B04",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188103",
+            "invoiceNumber": "2",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00002",
+              "barcode": "8809268921117",
+              "gdsNm": "요요쉬 플로랄와인 소형 50매 (40x48cm)_수정",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location2",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B03",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188102",
+            "invoiceNumber": "3",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00205",
+              "barcode": "jjja",
+              "gdsNm": "짜장라면",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location3",
+              "boxQty": 1,
+              "expirationDate": "2025-11-18"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B02",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188101",
+            "invoiceNumber": "4",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00205",
+              "barcode": "jjja",
+              "gdsNm": "짜장라면",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location4",
+              "boxQty": 1,
+              "expirationDate": "2025-11-18"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B01",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188100",
+            "invoiceNumber": "5",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00108",
+              "barcode": "8809815661244",
+              "gdsNm": "고양이섬 조개 솜털 (그린) 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location5",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00112",
+              "barcode": "8809815661282",
+              "gdsNm": "고양이섬 파스텔 솜깃털 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location6",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00114",
+              "barcode": "8809815661305",
+              "gdsNm": "고양이섬 땡땡이 긴꼬리 깃털 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location7",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00203",
+              "barcode": "barcode",
+              "gdsNm": "신라면",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location8",
+              "boxQty": 2,
+              "expirationDate": "2024-10-02"
+            },
+            {
+              "gdsCd": "083M00111",
+              "barcode": "8809815661275",
+              "gdsNm": "고양이섬 코르크 깃털 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location9",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00052",
+              "barcode": "8809692280422",
+              "gdsNm": "호랑이모래 무향 6kg ",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location10",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B08",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188107",
+            "invoiceNumber": "6",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00053",
+              "barcode": "8809692285663",
+              "gdsNm": "ㅁㅊ 모래 6.3kg ",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location11",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B07",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188106",
+            "invoiceNumber": "7",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00015",
+              "barcode": "4901133720451",
+              "gdsNm": "[SC-132] 이나바 캣 챠오 츄르 참치\u0026가다랑어 버라이어티 14g*40p",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location12",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B06",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188105",
+            "invoiceNumber": "9",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00015",
+              "barcode": "4901133720451",
+              "gdsNm": "[SC-132] 이나바 캣 챠오 츄르 참치\u0026가다랑어 버라이어티 14g*40p",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location13",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B05",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188104",
+            "invoiceNumber": "87",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00002",
+              "barcode": "8809268921117",
+              "gdsNm": "요요쉬 플로랄와인 소형 50매 (40x48cm)_수정",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location14",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "abSeq": "13851",
+      "abTme": 3,
+      "odrTy": "B2C",
+      "deliveryMethod": "당일배송",
+      "memo": "택배회차2",
+      "boxInfoList": [
+        {
+          "boxNo": "O083-20240610-00001-C1234",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "38348",
+            "invoiceNumber": "10",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 정자일로213번길 5 아이파크분당3",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배44",
+            "hubCod": "ㅁㄴㅇㄹ234",
+            "tmlCod": "2345235",
+            "domMid": "B",
+            "cenCod": "f93934",
+            "cenNam": "sdfadsf",
+            "sTmlCod": "467",
+            "sTmlNam": "서울",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00053",
+              "barcode": "8809692285663",
+              "gdsNm": "ㅁㅊ 모래 6.3kg ",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location1",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B04",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188103",
+            "invoiceNumber": "88",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00002",
+              "barcode": "8809268921117",
+              "gdsNm": "요요쉬 플로랄와인 소형 50매 (40x48cm)_수정",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location2",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B03",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188102",
+            "invoiceNumber": "11",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00205",
+              "barcode": "jjja",
+              "gdsNm": "짜장라면",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location3",
+              "boxQty": 1,
+              "expirationDate": "2025-11-18"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B02",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188101",
+            "invoiceNumber": "12",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00205",
+              "barcode": "jjja",
+              "gdsNm": "짜장라면",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location4",
+              "boxQty": 1,
+              "expirationDate": "2025-11-18"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B01",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188100",
+            "invoiceNumber": "13",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00108",
+              "barcode": "8809815661244",
+              "gdsNm": "고양이섬 조개 솜털 (그린) 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location5",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00112",
+              "barcode": "8809815661282",
+              "gdsNm": "고양이섬 파스텔 솜깃털 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location6",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00114",
+              "barcode": "8809815661305",
+              "gdsNm": "고양이섬 땡땡이 긴꼬리 깃털 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location7",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00203",
+              "barcode": "barcode",
+              "gdsNm": "신라면",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location8",
+              "boxQty": 2,
+              "expirationDate": "2024-10-02"
+            },
+            {
+              "gdsCd": "083M00111",
+              "barcode": "8809815661275",
+              "gdsNm": "고양이섬 코르크 깃털 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location9",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00052",
+              "barcode": "8809692280422",
+              "gdsNm": "호랑이모래 무향 6kg ",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location10",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B08",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188107",
+            "invoiceNumber": "14",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00053",
+              "barcode": "8809692285663",
+              "gdsNm": "ㅁㅊ 모래 6.3kg ",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location11",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B07",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188106",
+            "invoiceNumber": "15",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00015",
+              "barcode": "4901133720451",
+              "gdsNm": "[SC-132] 이나바 캣 챠오 츄르 참치\u0026가다랑어 버라이어티 14g*40p",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location12",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B06",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188105",
+            "invoiceNumber": "16",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00015",
+              "barcode": "4901133720451",
+              "gdsNm": "[SC-132] 이나바 캣 챠오 츄르 참치\u0026가다랑어 버라이어티 14g*40p",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location13",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B05",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188104",
+            "invoiceNumber": "17",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00002",
+              "barcode": "8809268921117",
+              "gdsNm": "요요쉬 플로랄와인 소형 50매 (40x48cm)_수정",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location14",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "abSeq": "13852",
+      "abTme": 3,
+      "odrTy": "B2C",
+      "deliveryMethod": "새벽배송",
+      "memo": "택배회차3",
+      "boxInfoList": [
+        {
+          "boxNo": "O083-20240610-00001-C1234",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "38348",
+            "invoiceNumber": "18",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 정자일로213번길 5 아이파크분당3",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배44",
+            "hubCod": "ㅁㄴㅇㄹ234",
+            "tmlCod": "2345235",
+            "domMid": "B",
+            "cenCod": "f93934",
+            "cenNam": "sdfadsf",
+            "sTmlCod": "467",
+            "sTmlNam": "서울",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00053",
+              "barcode": "8809692285663",
+              "gdsNm": "ㅁㅊ 모래 6.3kg ",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location1",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B04",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188103",
+            "invoiceNumber": "19",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00002",
+              "barcode": "8809268921117",
+              "gdsNm": "요요쉬 플로랄와인 소형 50매 (40x48cm)_수정",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location2",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B03",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188102",
+            "invoiceNumber": "20",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00205",
+              "barcode": "jjja",
+              "gdsNm": "짜장라면",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location3",
+              "boxQty": 1,
+              "expirationDate": "2025-11-18"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B02",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188101",
+            "invoiceNumber": "21",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00205",
+              "barcode": "jjja",
+              "gdsNm": "짜장라면",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location4",
+              "boxQty": 1,
+              "expirationDate": "2025-11-18"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B01",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188100",
+            "invoiceNumber": "22",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00108",
+              "barcode": "8809815661244",
+              "gdsNm": "고양이섬 조개 솜털 (그린) 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location5",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00112",
+              "barcode": "8809815661282",
+              "gdsNm": "고양이섬 파스텔 솜깃털 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location6",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00114",
+              "barcode": "8809815661305",
+              "gdsNm": "고양이섬 땡땡이 긴꼬리 깃털 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location7",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00203",
+              "barcode": "barcode",
+              "gdsNm": "신라면",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location8",
+              "boxQty": 2,
+              "expirationDate": "2024-10-02"
+            },
+            {
+              "gdsCd": "083M00111",
+              "barcode": "8809815661275",
+              "gdsNm": "고양이섬 코르크 깃털 리필",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location9",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            },
+            {
+              "gdsCd": "083M00052",
+              "barcode": "8809692280422",
+              "gdsNm": "호랑이모래 무향 6kg ",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location10",
+              "boxQty": 2,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B08",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188107",
+            "invoiceNumber": "23",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00053",
+              "barcode": "8809692285663",
+              "gdsNm": "ㅁㅊ 모래 6.3kg ",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location11",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B07",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188106",
+            "invoiceNumber": "24",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00015",
+              "barcode": "4901133720451",
+              "gdsNm": "[SC-132] 이나바 캣 챠오 츄르 참치\u0026가다랑어 버라이어티 14g*40p",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location12",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B06",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188105",
+            "invoiceNumber": "25",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00015",
+              "barcode": "4901133720451",
+              "gdsNm": "[SC-132] 이나바 캣 챠오 츄르 참치\u0026가다랑어 버라이어티 14g*40p",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location13",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        },
+        {
+          "boxNo": "O083-20240610-00001-B05",
+          "deliveryInfo": {
+            "deliveryInfoSeq": "188104",
+            "invoiceNumber": "26",
+            "odrNm": "ㅇ",
+            "odrTlno": "010****9999",
+            "rcvrNm": "ㅇ",
+            "rcvrTlno": "010****0000",
+            "rcvrAd": "경기 성남시 분당구 대왕판교로 4775층",
+            "cstRqMmo": "일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/일이삼사오육칠팔구십/",
+            "dlCompany": "한진택배1",
+            "hubCod": "SS",
+            "tmlCod": "460",
+            "domMid": "B",
+            "cenCod": "4613",
+            "cenNam": "판교(집)",
+            "sTmlCod": "467",
+            "sTmlNam": "이천",
+            "grpRnk": "F1",
+            "esCod": "035",
+            "esNam": "김운기",
+            "prtAdd": "판교동 649 급식소 낙생고등학교 ",
+            "freightFee": 2500,
+            "dlSe": "CD",
+            "printYn": "Y"
+          },
+          "goodsInfoList": [
+            {
+              "gdsCd": "083M00002",
+              "barcode": "8809268921117",
+              "gdsNm": "요요쉬 플로랄와인 소형 50매 (40x48cm)_수정",
+              "url": "",
+              "locationId": "B05-02-05",
+              "location": "location14",
+              "boxQty": 1,
+              "expirationDate": "9999-12-31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
